@@ -1,2 +1,2 @@
-# softer-lab.github.io
-Homepage
+# SOFTER-Lab
+Homepage of SOFTware Engineering Research Lab
